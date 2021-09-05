@@ -10,3 +10,15 @@ Here are some of my skills:
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 Besides coding, I also have interest in writing about the stuffs that I build. You can find them at https://akbarikevin.medium.com/
+
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][1.2]][1]
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/kevinakbari/
