@@ -13,7 +13,7 @@ Besides coding, I also have interest in writing about the stuffs that I build. Y
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][1.2]][1]
+You can catch me on [![LinkedIn][1.2]][1]
 
 <!-- Icons -->
 
