@@ -9,7 +9,7 @@ Here are some of my skills:
 ![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-Besides coding, I also have interest in writing about the stuffs that I build. You can find them at [here](https://akbarikevin.medium.com/).
+Besides coding, I also have interest in writing about the stuffs that I build. It can be found [here](https://akbarikevin.medium.com/).
 
 <!-- Actual text -->
 
