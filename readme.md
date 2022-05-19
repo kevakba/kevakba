@@ -1,6 +1,6 @@
 # Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-This is Kevin, currently working with India's leading upstream Oil and Gas company. My interest lies in the field of ML and AI. I am persuing my Masters degree in Machine Learning & Artificial Intelligence from Liverpool John Moores University. At this place, you can find some of the cool stuffs that I have worked upon. 
+This is Kevin. I have worked for India's leading upstream Oil and Gas company as analytics professional. My interest lies in the field of ML and AI. I have a Masters degree in Machine Learning & Artificial Intelligence from Liverpool John Moores University. At this place, you can find some of the cool stuffs that I have worked upon. 
 
 Here are some of my skills:
 
