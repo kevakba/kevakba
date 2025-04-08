@@ -1,24 +1,24 @@
-# Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-This is Kevin. I have worked for India's leading upstream Oil and Gas company as analytics professional. My interest lies in the field of ML and AI. I have a Masters degree in Machine Learning & Artificial Intelligence from Liverpool John Moores University. At this place, you can find some of the cool stuffs that I have worked upon. 
+I'm **Kevin Akbari** — a Machine Learning enthusiast with a background in analytics at India’s leading upstream Oil & Gas company. I hold a Master's degree in **Machine Learning & Artificial Intelligence** from *Liverpool John Moores University*.
 
-Here are some of my skills:
+This space is a showcase of some of the exciting projects I’ve worked on in the realms of ML and AI. I enjoy turning complex data into meaningful insights and building intelligent systems that solve real-world problems.
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+---
 
-Besides coding, I also have interest in writing about the stuffs that I build. It can be found [here](https://akbarikevin.medium.com/).
+### 🛠️ Skills & Tools:
 
-<!-- Actual text -->
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=mathworks&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
-You can catch me on [![LinkedIn][1.2]][1]
+---
+
+📝 When I’m not coding, I like to write about the cool stuff I build and learn along the way. Check out my articles on [Medium](https://akbarikevin.medium.com/).
+
+📬 Let’s connect on [![LinkedIn][1.2]][1] — always happy to chat about data, ML, and tech in general!
 
 <!-- Icons -->
-
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-
-<!-- Links to your social media accounts -->
-
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png  
 [1]: https://www.linkedin.com/in/kevinakbari/
