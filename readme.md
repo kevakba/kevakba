@@ -1,6 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm **Kevin Akbari** — a Machine Learning enthusiast with a background in analytics at India’s leading upstream Oil & Gas company. I hold a Master's degree in **Machine Learning & Artificial Intelligence** from *Liverpool John Moores University*.
+I'm **Kevin Akbari** — a Machine Learning enthusiast with a background in Data Science and ML. I hold a Master's degree in **Machine Learning & Artificial Intelligence** from *Liverpool John Moores University*.
 
 This space is a showcase of some of the exciting projects I’ve worked on in the realms of ML and AI. I enjoy turning complex data into meaningful insights and building intelligent systems that solve real-world problems.
 
